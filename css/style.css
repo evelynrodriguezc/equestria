@@ -157,6 +157,11 @@ h6,
 
 
 /*** Header ***/
+#header-carousel .carousel-item img {
+    max-height: 580px;
+    object-fit: cover;
+}
+
 .carousel-caption {
     top: 0;
     left: 0;
